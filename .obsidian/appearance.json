@@ -1,5 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "",
-  "enabledCssSnippets": []
+  "accentColor": "#8b6cef",
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [],
+  "theme": "obsidian"
 }
