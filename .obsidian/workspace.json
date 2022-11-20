@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b7f34aa7abb6f17",
+            "id": "59f4d98e01466a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Экзамены/АИП.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Экзамены/АИП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Экзамены/АИП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Экзамены/АИП.md"
               }
             }
           }
@@ -136,8 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b7f34aa7abb6f17",
+  "active": "59f4d98e01466a19",
   "lastOpenFiles": [
+    "Экзамены/Pasted image 20221120152852.png",
+    "Экзамены/АИП.md",
+    "Экзамены/Pasted image 20221120152848.png",
     "Main.md"
   ]
 }
