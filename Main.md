@@ -1,26 +1,46 @@
 Hello World
-Здрав буди
-```javascript
-function printTable() {
-   let table1 = '<table border="1" cellpadding="3">';
-   for (let x in points) {
-      table1 += '<tr>';
-      table1 += '<td>' + x + '</td>';
-      table1 += '<td>' + points[x] + '</td>';
-      table1 += '<td>' + document.getElementById('checkbox') + points[x] + '</td>';
-      table1 += '</tr>';
-   }
-   document.getElementById('points_out').innerHTML = table1 + '</table>';
+Long Arithmetics C++
+https://www.geeksforgeeks.org/divide-large-number-represented-string/
+```c++
+string longDivision(string number, int divisor)
+{
+    // As result can be very large store it in string
+    string ans;
+ 
+    // Find prefix of number that is larger
+    // than divisor.
+    int idx = 0;
+    int temp = number[idx] - '0';
+    while (temp < divisor)
+        temp = temp * 10 + (number[++idx] - '0');
+ 
+    // Repeatedly divide divisor with temp. After
+    // every division, update temp to include one
+    // more digit.
+    while (number.size() > idx) {
+        // Store result in answer i.e. temp / divisor
+        ans += (temp / divisor) + '0';
+ 
+        // Take next digit of number
+        temp = (temp % divisor) * 10 + number[++idx] - '0';
+    }
+ 
+    // If divisor is greater than number
+    if (ans.length() == 0)
+        return "0";
+ 
+    // else return ans
+    return ans;
 }
-
-const points = {
-   'Lenovo Legion 5 Pro': 150000,
-   'Lenovo Legion 5': 146000,
-   'Lenovo Legion Slime 5': 134600,
-   'Lenovo Legion 7': 189000,
-   'Lenovo Legion 7 Pro': 200000,
-   'Lenovo Legion Slim 7': 178000,
-};
-
-printTable();
 ```
+
+```c++
+int main()
+{
+    string number = "1248163264128256512";
+    int divisor = 125;
+    cout << longDivision(number, divisor);
+    return 0;
+}
+```
+
