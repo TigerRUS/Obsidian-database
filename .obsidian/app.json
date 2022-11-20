@@ -1,5 +1,7 @@
 {
   "spellcheckLanguages": null,
   "promptDelete": false,
-  "newFileLocation": "root"
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Экзамены/img"
 }
