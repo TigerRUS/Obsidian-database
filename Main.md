@@ -1,4 +1,4 @@
-Hello World \n
+Hello World
 Здрав буди
 ```javascript
 function printTable() {
