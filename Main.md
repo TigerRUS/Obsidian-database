@@ -43,5 +43,3 @@ int main()
     return 0;
 }
 ```
-
-![[Pasted image 20221120201918.png]]
