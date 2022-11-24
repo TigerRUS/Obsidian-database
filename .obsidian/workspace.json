@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамены/АИП.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамены/АИП.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамены/АИП.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамены/АИП.md"
+                "file": "Main.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "59f4d98e01466a19",
   "lastOpenFiles": [
-    "Экзамены/img/Pasted image 20221120153126.png",
     "Экзамены/АИП.md",
+    "Экзамены/img/Pasted image 20221120153126.png",
     "Экзамены/img/Pasted image 20221122184658.png",
     "Экзамены/img/Pasted image 20221122185214.png",
     "Main.md",
