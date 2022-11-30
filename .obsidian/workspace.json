@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамены/МатАнализ.md",
+                "file": "Экзамены/АИП.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамены/МатАнализ.md",
+                "file": "Экзамены/АИП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамены/МатАнализ.md",
+                "file": "Экзамены/АИП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамены/МатАнализ.md"
+                "file": "Экзамены/АИП.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "eb83df167ef78c9c",
   "lastOpenFiles": [
-    "Экзамены/АИП.md",
     "Экзамены/МатАнализ.md",
+    "Экзамены/АИП.md",
     "Экзамены/img/Pasted image 20221126133608.png",
     "Экзамены/img/Pasted image 20221126131030.png",
     "Экзамены/Pasted image 20221126131139.png",
