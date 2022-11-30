@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59f4d98e01466a19",
+            "id": "eb83df167ef78c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экзамены/АИП.md",
+                "file": "Экзамены/МатАнализ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экзамены/АИП.md",
+                "file": "Экзамены/МатАнализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экзамены/АИП.md",
+                "file": "Экзамены/МатАнализ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экзамены/АИП.md"
+                "file": "Экзамены/МатАнализ.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59f4d98e01466a19",
+  "active": "eb83df167ef78c9c",
   "lastOpenFiles": [
-    "Экзамены/img/Pasted image 20221126133608.png",
     "Экзамены/АИП.md",
+    "Экзамены/МатАнализ.md",
+    "Экзамены/img/Pasted image 20221126133608.png",
     "Экзамены/img/Pasted image 20221126131030.png",
     "Экзамены/Pasted image 20221126131139.png",
     "Экзамены/img/Pasted image 20221126124232.png",
     "Экзамены/img/Pasted image 20221122192313.png",
     "Экзамены/img/Pasted image 20221122191458.png",
     "Main.md",
-    "Экзамены/img/Pasted image 20221120153126.png",
-    "Экзамены/img/Pasted image 20221122184658.png"
+    "Экзамены/img/Pasted image 20221120153126.png"
   ]
 }
