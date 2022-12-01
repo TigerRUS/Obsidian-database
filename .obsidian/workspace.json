@@ -11,8 +11,12 @@
             "id": "7b380cafeefe691e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Экзамены/АИП.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Экзамены/АИП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Экзамены/АИП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Экзамены/АИП.md"
+              }
             }
           }
         ]
@@ -128,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa8d8a603a261166",
+  "active": "7b380cafeefe691e",
   "lastOpenFiles": [
     "Экзамены/АИП.md",
     "Экзамены/Линейная алгебра и аналитичсекая геометрия.md",
