@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53dc1302e9380ba6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b380cafeefe691e",
+  "active": "fa8d8a603a261166",
   "lastOpenFiles": [
     "Экзамены/АИП.md",
     "Экзамены/Линейная алгебра и аналитичсекая геометрия.md",
